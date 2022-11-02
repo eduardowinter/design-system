@@ -8,9 +8,11 @@ export interface CheckboxProps
 export function Checkbox(props: CheckboxProps) {
   return (
     <CheckboxContainer {...props}>
-      <CheckboxIndicator>
+      <CheckboxIndicator asChild>
         <Check weight="bold" />
       </CheckboxIndicator>
     </CheckboxContainer>
   )
 }
+
+Checkbox.displayName = 'Checkbox'

@@ -4,10 +4,16 @@ import { Avatar, AvatarProps } from '@design-ui/react'
 export default {
   title: 'Data display/Avatar',
   component: Avatar,
-
   args: {
     src: 'https://github.com/eduardowinter.png',
-    alt: 'Eduado Winter',
+    alt: 'Eduardo Winter',
+  },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
   },
 } as Meta<AvatarProps>
 
