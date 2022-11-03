@@ -1,0 +1,2 @@
+import{A as t}from"./index.c8796800.js";import"./index.c4e2c3c5.js";import"./iframe.2213f493.js";import"./index.6d97c1a8.js";import"./jsx-runtime.afbd6d23.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/eduardowinter.png",alt:"Eduardo Winter"},argTypes:{src:{control:{type:"text"}}}},p={},c={args:{src:void 0}},m=["Primary","WithFallback"];export{p as Primary,c as WithFallback,m as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.3f4e02d0.js.map
