@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@design-ui/tokens'
+} from '@eduardowb-design-ui/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
