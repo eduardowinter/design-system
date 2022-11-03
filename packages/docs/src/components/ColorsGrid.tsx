@@ -1,4 +1,4 @@
-import { colors } from '@design-ui/tokens'
+import { colors } from '@eduardowb-design-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

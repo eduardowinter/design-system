@@ -1,5 +1,6 @@
 {
-  "name": "@design-ui/eslint-config",
+  "name": "@eduardowb-design-ui/eslint-config",
+  "version": "2.0.0",
   "license": "MIT",
   "private": true,
   "main": "index.js",

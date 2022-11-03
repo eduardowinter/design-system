@@ -1,4 +1,4 @@
 {
-  "extends": "@design-ui/ts-config/base.json",
+  "extends": "@eduardowb-design-ui/ts-config/base.json",
   "include": ["src"],
 }

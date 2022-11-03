@@ -1,5 +1,5 @@
 {
-  "name": "@design-ui/react",
+  "name": "@eduardowb-design-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -15,9 +15,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@design-ui/eslint-config": "*",
-    "@design-ui/tokens": "*",
-    "@design-ui/ts-config": "*",
+    "@eduardowb-design-ui/eslint-config": "*",
+    "@eduardowb-design-ui/tokens": "*",
+    "@eduardowb-design-ui/ts-config": "*",
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
     "react": "^18.2.0",
